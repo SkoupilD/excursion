@@ -18,6 +18,11 @@ body {
     font-size: 21px;
     color: grey;
 }
+.footer--copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
 /* LINKS */
 .link--cta {
     font-size: 16px;
